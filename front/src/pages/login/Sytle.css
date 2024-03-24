@@ -1,0 +1,116 @@
+.conteudo {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudoHome {
+    width: 20vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudoSlogan {
+  width: 50vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.conteudoReserva {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.conteudoLogin {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.boxHome {
+  width: 400px;
+  height: 350px;
+  border: 1px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 30px;
+}
+
+
+.box {
+  width: 400px;
+  height: 350px;
+  border: 1px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 30px;
+}
+
+.boxLogin {
+  width: 700px;
+  height: 500px;
+  border: 1px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 30px;
+}
+
+.button {
+  width: 790px;
+  height: 790px;
+  border: 1px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+}
+
+.loading {
+  width: 1500px;
+  height: 800px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center
+}
+
+.texto {
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  display: flex;
+}
+
+.senhas {
+  padding: 1px;
+  height: 20px;
+  width: 720px;
+}
+
+h1{
+  color: #556cd6;
+}
+  
+.espacamento{
+  margin: 50px; 
+  padding: 20px; 
+  border: 1px solid #fff; 
+}
+
+
